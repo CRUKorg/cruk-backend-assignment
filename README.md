@@ -16,14 +16,16 @@ The repository MUST contain:
 
 - Source code
     - It should be buildable/viewable.
+    - It must be written in Typescript.
     - In case you need to use external libraries, please add them.
-- Infrastructure as Code (We love the AWS CDK, but feel free to use Cloudformation, Terraform or Pulumi if you feel more comfortable with these technologies).
+- Infrastructure as Code (We use the AWS CDK and encourage you to use this also, but we will accept the use of Cloudformation or Terraform if you feel more comfortable with these technologies). Please refrain from using the Serverless Framework for this task.
+- Adequate tests.
 - Any installation and deployment instructions for apps and components.
 - README file with URL for testing the service online and a brief explanation on the scalability strategy.
 
 ### Rules
 
-If you do not complete the test please indicate how you would intend to finalise it in the README. You can use any library or tool you feel comfortable with.
+If you do not complete the test please indicate how you would intend to finalise it in the README. 
 
 The team is looking to see how you approach a problem with a broad spec which could have a number of different solutions and then explaining your approach? Keep the implementation simple, but make sure you have automated tests, logging (structured logs with JSON), and include information in the README about how you'll scale the solution to thousands of users, how you'd approach logging & monitoring at scale so that you can actually debug the system as it increases in complexity.
 
@@ -67,12 +69,3 @@ Do it manually, it's a one-time thing
 
 Absolutely! show us your AWS chops
 
-
-## Useful commands
-
- * `npm run build`   compile typescript to js
- * `npm run watch`   watch for changes and compile
- * `npm run test`    perform the jest unit tests
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
