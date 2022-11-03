@@ -1,5 +1,7 @@
 # CRUK Node.js Recruitment Assignment
 
+**Note - for the Python version of this exercise please click [[HERE](https://github.com/CRUKorg/cruk-backend-assignment/tree/python-version)]**
+
 ### Functional Requirements
 
 Build a service in Node.js that can be deployed to AWS which exposes an API and can be consumed from any client. 
