@@ -1,4 +1,4 @@
-# CRUK Node.js Recruitment Assignment
+# CRUK Python Recruitment Assignment
 
 ### Functional Requirements
 
