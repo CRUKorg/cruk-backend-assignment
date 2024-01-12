@@ -20,7 +20,7 @@ The repository MUST contain:
     - It should be buildable/viewable.
     - It must be written in Typescript.
     - In case you need to use external libraries, please add them.
-- Infrastructure as Code (We use the AWS CDK and encourage you to use this also, but we will accept the use of Cloudformation or Terraform if you feel more comfortable with these technologies). Please refrain from using the Serverless Framework for this task.
+- Infrastructure as Code (We use the AWS CDK and encourage you to use this also, but we will accept the use of Cloudformation or Terraform if you feel more comfortable with these technologies). Please refrain from using the [Serverless Framework](https://www.serverless.com/) for this task.
 - Adequate tests.
 - Any installation and deployment instructions for apps and components.
 - README file with URL for testing the service online and a brief explanation on the scalability strategy.
