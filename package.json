@@ -4,6 +4,10 @@
   "bin": {
     "recruitment-nodejs-test": "bin/recruitment-nodejs-test.js"
   },
+  "engines": {
+    "node": "^20.12.2",
+    "npm": "^10.5.0"
+  },
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
