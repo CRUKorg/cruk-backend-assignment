@@ -18,7 +18,7 @@ The repository MUST contain:
     - It must be written in Typescript.
     - In case you need to use external libraries, please add them.
 
-The repository SHOULD contain:    
+The repository MAY contain:    
 - Basic tests.
 
 ### Guidelines
