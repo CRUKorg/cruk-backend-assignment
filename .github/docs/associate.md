@@ -25,4 +25,4 @@ The repository MAY contain:
 
 If you do not complete the test please indicate how you would intend to finalize it in the README.
 
-The team is looking to see how you approach a problem with a broad spec which could have a number of different solutions and then explaining your approach. Keep the implementation simple, but make sure you have basic tests, and error handling.
+The team is looking to see how you approach a problem with a broad spec which could have a number of different solutions and then explaining your approach.
