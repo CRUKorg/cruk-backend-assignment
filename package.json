@@ -22,7 +22,7 @@
     "jest": "^30.0.0",
     "ts-jest": "^29.4.0",
     "ts-node": "^10.9.2",
-    "typescript": "~5.8.3"
+    "typescript": "~5.9.2"
   },
   "dependencies": {
     "@aws-cdk/core": "1.204.0",
